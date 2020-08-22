@@ -2,6 +2,6 @@
     background-color: #ffcccc;
     width: 100vw;
     height: 100vh;
-    transition: color 0.5s ease-in-out;
+    transition:background-color 0.5s ease-in-out;
     cursor:pointer;
 }
