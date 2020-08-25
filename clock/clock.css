@@ -5,9 +5,9 @@ body{
     cursor:pointer;
 }
 
-  h1{
+body{
       color:#FDA7DF;
-      transition: color 0.5s ease-in-out;
+    
   }
 
   .clicked{
